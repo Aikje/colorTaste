@@ -9,7 +9,8 @@ public class Aiketest
 	private boolean returnParty()
 	{
 		return true;
-		// partyhard!
+		// partyhard
+		// comment2
 	}
 }
 // rick comment
