@@ -2,8 +2,8 @@ package com.stenden.colortaste;
 
 public class Aiketest
 {
-// testfddghd
-	
-	//adslkfa;dsflkj;
+// aike comment
+
+	// michel comment
 }
-// asdfasdf
+// rick comment
